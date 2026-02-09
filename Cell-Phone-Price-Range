@@ -1,0 +1,13 @@
+#Cell Phone Price Range Prediction
+
+## Problem Statement
+Predict the price range of mobile phones based on specifications.
+
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+## Outcome
+Built a machine learning model to classify phone price ranges.
