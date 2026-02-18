@@ -9,13 +9,13 @@ Welcome to my collection of projects. I specialize in solving practical problems
 
 | Project Name | Objective | Source Code | 📊 Live View (nbviewer) |
 | :--- | :--- | :---: | :--- |
-| **Cell Phone Price** | Predict price range (96% Accuracy) | [Code](./CellPhonePrice.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Cell%20Phone%20Price%20Range%20.ipynb) |
-| **Employee Performance** | Attrition & Performance Analysis | [Code](./EmployeePerformanceAnalysis.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Flight%20Price%20Prediction%20.ipynb) |
-| **Flight Price** | Airline ticket cost prediction | [Code](./FlightPricePrediction.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Flight%20Price%20Prediction%20.ipynb) |
-| **Heart Disease** | Clinical diagnostic classification | [Code](./HeartDiseasePrediction.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Heart%20Disease%20Prediction%20.ipynb) |
+| **Cell Phone Price Prediction** | Predict price range (96% Accuracy) | [Code](./CellPhonePrice.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Cell%20Phone%20Price%20Range%20.ipynb) |
+| **Employee Performance Analysis** | Attrition & Performance Analysis | [Code](./EmployeePerformanceAnalysis.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Flight%20Price%20Prediction%20.ipynb) |
+| **Flight Price Prediction** | Airline ticket cost prediction | [Code](./FlightPricePrediction.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Flight%20Price%20Prediction%20.ipynb) |
+| **Heart Disease Prediction** | Clinical diagnostic classification | [Code](./HeartDiseasePrediction.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Heart%20Disease%20Prediction%20.ipynb) |
 | **Bank Marketing** | Term deposit subscription prediction | [Code](./PortugueseBankProject.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Portuguese%20Bank%20Project%20%20.ipynb) |
 | **Sales Effectiveness** | Lead scoring & conversion optimization | [Code](./SalesEffectiveness.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Sales%20Effectiveness%20.ipynb) |
-| **Texas Salary** | Salary prediction based on experience | [Code](./TexasSalaryPrediction.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Texas%20Salary%20Prediction%20.ipynb) |
+| **Texas Salary Prediction** | Salary prediction based on experience | [Code](./TexasSalaryPrediction.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Texas%20Salary%20Prediction%20.ipynb) |
 
 ---
 
