@@ -24,9 +24,19 @@ This portfolio showcases my hands-on projects in Machine Learning, Data Analysis
 ---
 
 ## Skills & Tools
-**Languages:** Python (Jupyter)  
-**Libraries:** Scikit-learn, Pandas, NumPy, XGBoost, Matplotlib, Seaborn  
-**Skills:** EDA, Feature Engineering, Model Tuning (GridSearchCV), Handling Class Imbalance (SMOTE)
+
+**Languages:** 
+Python (Jupyter Notebook)  
+
+**Libraries & Frameworks:** 
+Pandas | NumPy | Scikit-learn | XGBoost | Matplotlib | Seaborn
+
+**Core Skills:**
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Model Building & Evaluation
+* Hyperparameter Tuning (GridSearchCV)
+* Handling Imbalanced Data (SMOTE)
 
 ---
 
