@@ -1,7 +1,12 @@
-# Machine Learning & Data Science Portfolio
+#Data Analyst|Data Scientist|Machine Learning Portfolio
 
-Welcome to my collection of projects. I specialize in solving practical problems through data-driven methods, ranging from healthcare diagnostics to financial forecasting.
+Welcome! I am a Junior Data Analyst passionate about solving real-world problems using data.
+This portfolio showcases my hands-on projects in Machine Learning, Data Analysis, and Predictive Modeling, applied across domains like healthcare, finance, and sales.
 
+ *About Me*
+* Strong foundation in data analysis and machine learning
+* Currently exploring Generative AI & LLMs
+* Focused on solving business problems using data-driven approaches
 ---
 
 ## Quick Access Gallery
@@ -25,7 +30,7 @@ Welcome to my collection of projects. I specialize in solving practical problems
 
 ---
 
-## Detailed Project Breakdown
+## Project Highlights
 
 ### Cell Phone Price Range Prediction
 * **Outcome:** Achieved 95–96% accuracy using SVM and KNN.
@@ -54,3 +59,17 @@ Welcome to my collection of projects. I specialize in solving practical problems
 ### Texas Salary Prediction
 * **Outcome:** High predictive accuracy using Gradient Boosting and Random Forest.
 * **Key Techniques:** Label encoding, Feature selection.
+
+## Key Takeaways
+* Ability to translate business problems into ML solutions.
+* Strong understanding of model evaluation metrics.
+* Experience working with real-world datasets.
+* Focus on practical impact, not just accuracy.
+
+##Let’s Connect
+*I am open to opportunities in:*
+* Data Analyst
+* Junior Data Scientist
+* Machine Learning roles
+
+Feel free to explore my projects and connect!
