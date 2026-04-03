@@ -1,9 +1,9 @@
-# Data Analyst|Data Scientist|Machine Learning Portfolio
+# Data Scientist | Data Analyst | Machine Learning Portfolio
 
 Welcome! I am a Junior Data Analyst passionate about solving real-world problems using data.
 This portfolio showcases my hands-on projects in Machine Learning, Data Analysis, and Predictive Modeling, applied across domains like healthcare, finance, and sales.
 
- *About Me*
+ **About Me**
 * Strong foundation in data analysis and machine learning
 * Currently exploring Generative AI & LLMs
 * Focused on solving business problems using data-driven approaches
@@ -68,7 +68,7 @@ This portfolio showcases my hands-on projects in Machine Learning, Data Analysis
 
 ## Let’s Connect
 
-*I am open to opportunities in:*
+**I am open to opportunities in:**
 * Data Analyst
 * Junior Data Scientist
 * Machine Learning roles
