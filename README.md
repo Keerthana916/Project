@@ -11,7 +11,7 @@ Welcome to my collection of projects. I specialize in solving practical problems
 | :--- | :--- | :---: | :--- |
 | **Cell Phone Price Prediction** | Predict price range (96% Accuracy) | [Code](./Cell_Phone_Price_Range.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Cell_Phone_Price_Range.ipynb) |
 | **Flight Price Prediction** | Airline ticket cost prediction | [Code](./Flight-Price-Prediction.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Flight%20Price%20Prediction%20.ipynb) |
-| **Heart Disease Prediction** | Clinical diagnostic classification | [Code](./Heart_Disease_Prediction.ipynb) | [**View Results**](https://nbviewer.org/https://github.com/Keerthana916/Project/blob/main/Heart_Disease_Prediction.ipynb) |
+| **Heart Disease Prediction** | Clinical diagnostic classification | [Code](./Heart_Disease_Prediction.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Heart_Disease_Prediction.ipynb) |
 | **Bank Marketing** | Term deposit subscription prediction | [Code](./Portuguese-Bank-Project.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Portuguese%20Bank%20Project%20%20.ipynb) |
 | **Sales Effectiveness** | Lead scoring & conversion optimization | [Code](./Sales-Effectiveness.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Sales%20Effectiveness%20.ipynb) |
 | **Texas Salary Prediction** | Salary prediction based on experience | [Code](./Texas-Salary-Prediction.ipynb) | [**View Results**](https://nbviewer.org/github/Keerthana916/Project/blob/main/Texas%20Salary%20Prediction%20.ipynb) |
