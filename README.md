@@ -26,9 +26,11 @@ This portfolio showcases my hands-on projects in Machine Learning, Data Analysis
 ## Skills & Tools
 
 **Languages:** 
+
 Python (Jupyter Notebook)  
 
 **Libraries & Frameworks:** 
+
 Pandas | NumPy | Scikit-learn | XGBoost | Matplotlib | Seaborn
 
 **Core Skills:**
