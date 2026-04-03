@@ -41,7 +41,7 @@ Welcome to my collection of projects. I specialize in solving practical problems
 
 ### Heart Disease Prediction
 * **Outcome:** Achieved high recall scores with Random Forest, critical for healthcare diagnostics.
-* **Key Techniques:** ROC-AUC evaluation, Confusion Matrix analysis.
+* **Key Techniques:** Accuracy, Confusion Matrix analysis.
 
 ### Portuguese Bank Marketing
 * **Outcome:** Optimized targeting strategy using precision-recall analysis.
